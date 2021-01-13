@@ -1,6 +1,6 @@
 # componentes
 
-A new Flutter project.
+Un proyecto con Flutter.
 
 ## Getting Started
 
